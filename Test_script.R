@@ -6,4 +6,5 @@ y <- c(6, 7, 8, 9, 10)
 
 # add vector
 z <-  x + y
-z
+
+w <- x - y
