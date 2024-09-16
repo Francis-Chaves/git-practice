@@ -1,2 +1,3 @@
 # git-practice
-a practice repository for SSECR GitHub course
+
+This is a super duper awesome new README message for this repository, yay!
